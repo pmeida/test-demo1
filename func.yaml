@@ -4,5 +4,5 @@ specVersion: 0.36.0
 name: test-demo1
 runtime: node
 registry: image-registry.openshift-image-registry.svc:5000/test-demo
-namespace: test-demo
+namespace: test-demo1
 created: 2026-11-05T14:00:48.019344Z
